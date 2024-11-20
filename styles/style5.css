@@ -1,0 +1,100 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+}
+
+.header-content {
+    background-color: #004b00;
+    color: #fff;
+    padding: 1.6em;
+    text-align: center;
+}
+
+
+.main {
+    padding: 2em;
+}
+
+
+footer .footer-content {
+    text-align: center;
+    padding: 0.6em;
+    background-color: #004b00;
+    color: #fff;
+    margin-top: 2em;
+}
+
+
+input, textarea, button {
+    padding: 0.5em;
+    margin-top: 0.5em;
+}
+
+button {
+    background-color: #444;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+.news {
+    margin-left: 10.9cm;
+    margin-right: 10.9cm;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #2bb82b;
+    padding: 0.3cm;
+}
+
+nav ul li {
+    margin:0 1em;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+img{
+margin-top: 0.4cm;
+margin-bottom: 0.4cm;
+}
+
+.secundaria {
+    color: rgb(255, 255, 255);
+    font-size: 4.8ch;
+    background-color:rgb(212, 3, 3) ;
+    padding: 1cm;
+    text-align: center;
+}
+p {
+    font-size: 1.7ch;
+    font-size-adjust: calc(0.51);
+}
+ h1 {
+    font-size: xx-large;
+ }
+ .flex {
+    margin-left: 1cm;
+ }
+
+ .display {
+    display: flex;
+    padding-left: 1cm;
+    padding-right: 1cm;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    IMG{
+margin-left: 4cm;
+margin-top: 1.5cm;
+    }
+    P{
+        margin-right: 4cm;
+    }
+    
+ }

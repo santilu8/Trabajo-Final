@@ -1,0 +1,129 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: #333;
+}
+
+.header-content {
+    background-color: #004b00;
+    color: #fff;
+    padding: 1.6em;
+    text-align: center;
+}
+
+.flex-header {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    background-color: rgb(224, 224, 191);
+    margin-bottom: 0.5cm;
+    background-color: #004b00;
+    color: white;
+    justify-content: space-between;
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size:large;
+}
+
+.main {
+    padding: 2em;
+}
+
+
+footer .footer-content {
+    text-align: center;
+    padding: 0.6em;
+    background-color: #004b00;
+    color: #fff;
+    margin-top: 2em;
+}
+
+
+
+input, textarea, button {
+    padding: 0.5em;
+    margin-top: 0.5em;
+}
+
+button {
+    background-color: #444;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+.bilinguee {
+    display: flex;
+    padding-left: 4.5cm;
+    padding-right: 4.5cm;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 3cm;
+    margin-top: 2cm;
+    img{
+        margin-left: 1cm;
+        margin-top: 0.5cm;
+    }
+    h2, h3{
+        margin-left: 1cm;
+
+    }
+    p{
+        font-size: 1.2cap;
+    }
+}
+
+.historiaa {
+    display: flex;
+    padding-right: 1cm;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content {
+    margin-left: 1cm;
+}
+
+.eticas {
+    display: flex;
+    height: 16cm;
+    min-width: 9.5cm;
+    justify-content: space-between;
+}
+.etica{
+    background-color: rgb(36, 162, 247);
+    padding-top: 1cm;
+    padding-left: 3.5cm;
+    padding-right: 3.5cm;
+    color: white;
+    font-size: 0.4cm;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title{
+    background-color:rgb(108, 240, 91) ;
+    color: rgb(3, 104, 0);
+    display: flex;
+    padding-left: 2.6cm; 
+    padding-right: 2.6cm;
+    padding-top: 0.2cm;
+    padding-bottom: 0.2cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    margin: 0.8cm;
+} 
+.titlee{
+    color: #ff7e7e;
+    margin-left: 0.8cm;
+}
+.title2 {
+    display: flex;
+    justify-content: space-around;
+}
+
